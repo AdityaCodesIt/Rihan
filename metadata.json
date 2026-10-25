@@ -1,0 +1,6 @@
+{
+  "name": "CivicRoute - AI Civic Complaint Routing",
+  "description": "Next-generation AI civic complaint routing and automated SLA dispatch for municipal corporations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
